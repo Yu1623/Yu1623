@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuxuanliu-bsd
-- 👀 I’m interested in coding, math and arts
+- 👀 I’m interested in coding, math and arts.
 - 🌱 I’m currently learning Python, C#, and Unity.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on game development.
 - 📫 How to reach me ...
 
 <!---
